@@ -1,16 +1,14 @@
-## Hi there 👋
+oii bem vindo
 
-<!--
-**Jackson1115/jackson1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e jackson mais me chame de _maru_
 
-Here are some ideas to get you started:
+eu estudo no alura 
+estou aprendendo programaçao
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+entre em contato c puder me ajuda:instagram-@jackson matheus
+
+
+
+
+
+![](https://media1.tenor.com/m/dXJB_7aIscAAAAAd/naruto-dancing.gif)
